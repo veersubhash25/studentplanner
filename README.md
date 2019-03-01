@@ -10,4 +10,4 @@ We decided to have 4 semesters planner(with summer and without summer) i.e.
 4. Fall 2019 
 
 ## User Interface 
-This application has a basic user interface with options to drag and drop with available slots as per user requirement by rahul.
+This application has a basic user interface with options to drag and drop with available slots as per user requirement by rahul and teja .
